@@ -46,4 +46,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/python-ci-demo:latest
+          tags: amanverma1/python-ci-demo:latest
